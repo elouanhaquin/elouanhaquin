@@ -21,6 +21,9 @@ But I'm currently working on a <a href="https://github.com/elouanhaquin/Minecraf
 
 - 💬 Feel free to contact me at haquin.elouan@gmail.com 
 
+
+##
+
 <h3 align="center" style="padding: 0;">
  And because everyone love stats ! ⚡
 </h3>
