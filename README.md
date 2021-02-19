@@ -4,11 +4,11 @@
 
  
 I'm your host, <strong> Elouan Haquin. </strong> <br>
-Here take a lamp it could be dark downthere ! 🪔
+Here, take a lamp it could be dark down there ! 🪔
 
  - 🎓 I am currently looking for an Intership ! 
  - 🤓 I used to study at Isart Digital, now I'm finishing an associate’s degree in Computer Science. 
- - 🌃 Soon to be a student in ETS Montréal ! 
+ - 🌃 Soon to be a student in ETS Montreal ! 
  
 ##
 
@@ -17,7 +17,7 @@ Here take a lamp it could be dark downthere ! 🪔
 </h3>
 
 🎲 You can see some on my <a href="https://www.elouan-haquin.com/"  target="_blank"  >Portfolio </a> ! </br>
-But I'm currently working on a <a href="https://github.com/elouanhaquin/Minecraft"  target="_blank"  > Minecraft Clone </a>  ! 
+I'm currently working on a <a href="https://github.com/elouanhaquin/Minecraft"  target="_blank"  > Minecraft Clone </a>  ! 
 
 - 💬 Feel free to contact me at haquin.elouan@gmail.com 
 
