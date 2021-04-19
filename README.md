@@ -6,7 +6,7 @@
 I'm your host, <strong> Elouan Haquin. </strong> <br>
 Here, take a lamp it could be dark down there ! 🪔
 
- - 🎓 I am currently looking for an Intership ! 
+ - 🎓 I am currently doing an intership at ECA Group ! 
  - 🤓 I used to study at Isart Digital, now I'm finishing an associate’s degree in Computer Science. 
  - 🌃 Soon to be a student in ETS Montreal ! 
  
