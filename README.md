@@ -6,8 +6,9 @@
 I'm your host, <strong> Elouan Haquin. </strong> <br>
 Here, take a lamp it could be dark down there ! 🪔
 
- - 🎓 I am currently doing an intership at ECA Group (thats why all my projects are on hold) ! 
- - 🤓 I used to study at Isart Digital, now I'm finishing an associate’s degree in Computer Science. 
+ - 🎓 I am currently a Unity Programmer at ECA Group (thats why all my projects are on hold) ! 
+ - ⛵ To be more specific, I am doing a simulator on underwater mine countermeasures, you can learn more [here](https://www.ecagroup.com/en/business/eca-group-reaches-another-milestone-with-regard-to-the-unmanned-vehicles-that-will-be-manufactured-in-belgium-for-the-mine-warfare-programme-of-the-belgian-navy-and-the-royal-netherlands-navy).
+ - 🤓 I used to study at Isart Digital, and I have an associate’s degree in Computer Science. 
  - 🌃 Soon to be a student in ETS Montreal ! 
  
 ##
