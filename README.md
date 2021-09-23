@@ -6,11 +6,10 @@
 I'm your host, <strong> Elouan Haquin. </strong> <br>
 Here, take a lamp it could be dark down there ! 🪔
 
- - 🎓 I am currently a Unity Programmer at ECA Group (thats why all my projects are on hold) ! 
+ - 🎓 I have an associate’s degree in Computer Science, and I'm a part time student at CESI University, where I'm working towards obtaining a bachelor degree in Lead Programing. 
+ - 🤓 When I'm not in school, I'm working as a 3D programmer at Eca Robotics. 
  - ⛵ To be more specific, I am doing a simulator on underwater mine countermeasures, you can learn more [here](https://www.ecagroup.com/en/business/eca-group-reaches-another-milestone-with-regard-to-the-unmanned-vehicles-that-will-be-manufactured-in-belgium-for-the-mine-warfare-programme-of-the-belgian-navy-and-the-royal-netherlands-navy).
- - 🚀 I have an associate’s degree in Computer Science, and I'm a part time student at CESI University, where I'm working towards obtaining a bachelor degree in Lead Programing. 
- - 🤓 When I'm not in school, I'm working as a programmer at Eca Robotics. 
- 
+
 ##
 
 <h3 align="center" style="padding: 0;">
