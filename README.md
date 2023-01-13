@@ -1,4 +1,4 @@
-[![Hello, Welcome to my github page :)](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Welcome%20to%20my%20github%20page%20%3A%29&title=Hello)](https://www.linkedin.com/in/elouan-haquin/)
+[![Hello, Welcome to my github page :)](https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=Welcome%20to%20my%20github%20page%20%3A%29&title=Hello)](https://www.linkedin.com/in/elouan-haquin/)
 <h1 align="center" style="padding: 0;">
 
 </h1>
