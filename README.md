@@ -20,7 +20,7 @@ Here, take a lamp it could be dark down there ! 🪔
 </h3>
 
 🎲 You can see some on my <a href="https://www.elouan-haquin.com/"  target="_blank"  >Portfolio </a> ! </br>
-I'm currently working on a <a href="https://github.com/elouanhaquin/Minecraft"  target="_blank"  > Minecraft Clone </a>  ! 
+I'm currently working on an <a href="https://www.lebonclient.fr/"  target="_blank"  > app for client lead management  </a>  ! 
 
 - 💬 Feel free to contact me at haquin.elouan@gmail.com 
 
