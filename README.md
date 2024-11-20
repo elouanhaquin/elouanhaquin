@@ -10,7 +10,7 @@ Hi I'm, <strong> Elouan Haquin. </strong> <br>
 What about me ? 🪔
 
  - 🎓 I have a master's degree in Information Systems Architecture and Software Applications Management. 
- - ⚡ I'm working as a lead programmer at <a href="https://exail.com/"  target="_blank"  >Exail</a>. 
+ - ⚡ I'm working as a lead programmer at <a href="https://www.exail.com/"  target="_blank"  >Exail</a>. 
  - ⛵ To be more specific, I am working on updating a large legacy codebase to Unreal 5.
 
 ##
