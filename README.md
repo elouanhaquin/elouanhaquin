@@ -6,11 +6,11 @@
 
 
  
-I'm your host, <strong> Elouan Haquin. </strong> <br>
-Here, take a lamp it could be dark down there ! 🪔
+Hi I'm, <strong> Elouan Haquin. </strong> <br>
+What about me ? 🪔
 
- - 🎓 I have an associate’s degree in Computer Science, and I'm a part time student at CESI University, where I'm working towards obtaining a master degree in Lead Programing. 
- - 🤓 When I'm not in school, I'm working as a 3D programmer at <a href="https://exail.com/"  target="_blank"  >Exail</a>. 
+ - 🎓 I have a master's degree in Information Systems Architecture and Software Applications Management. 
+ - ⚡ I'm working as a lead programmer at <a href="https://exail.com/"  target="_blank"  >Exail</a>. 
  - ⛵ To be more specific, I am working on updating a large legacy codebase to Unreal 5.
 
 ##
@@ -20,7 +20,9 @@ Here, take a lamp it could be dark down there ! 🪔
 </h3>
 
 🎲 You can see some on my <a href="https://www.elouan-haquin.com/"  target="_blank"  >Portfolio </a> ! </br>
-I'm currently working on an <a href="https://www.lebonclient.fr/"  target="_blank"  > app for client lead management  </a>  ! 
+I use to work on an app <a href="https://www.lebonclient.fr/"  target="_blank"  >  for client lead management  </a>  !
+I am now working on an announced project in my free time. 
+
 
 - 💬 Feel free to contact me at haquin.elouan@gmail.com 
 
