@@ -1,18 +1,32 @@
-# Hey, I'm Elouan 👋
+### Hey, I'm Elouan 👋
 
-Lead Programmer at [Exail](https://www.exail.com/) · Master's in Information Systems Architecture & Software Applications Management
+Lead Programmer at [Exail](https://www.exail.com/) · M.Sc. in Information Systems Architecture · Building things on the side
 
-## My Projects
+### Stack & tools
 
-🚴 **[MyBikeFitting](https://www.mybikefitting.com/)** - The #1 bike fitting platform in Europe.
-An online tool helping cyclists optimize their position on the bike.
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-📱 **[Progress2Win](https://www.progress2win.com/)** - WIP - A cycling coach always in your pocket.
+
+### Side projects
+
+🚴 **[MyBikeFitting](https://www.mybikefitting.com/)** · The #1 bike fitting platform in Europe.
+Helping cyclists find their perfect position on the bike.
+
+📱 **[Progress2Win](https://www.progress2win.com/)** · A cycling coach always in your pocket.
+Personalized training for cyclists. *(in progress)*
 
 
-## Get in Touch
+### Get in touch
 
 📧 haquin.elouan@gmail.com
+
+
 
 
 <!--
