@@ -18,9 +18,6 @@ Lead Programmer at [Exail](https://www.exail.com/) · M.Sc. in Information Syste
 🚴 **[MyBikeFitting](https://www.mybikefitting.com/)** · The #1 bike fitting platform in Europe.
 Helping cyclists find their perfect position on the bike.
 
-📱 **[Progress2Win](https://www.progress2win.com/)** · A cycling coach always in your pocket.
-Personalized training for cyclists. *(in progress)*
-
 
 ### Get in touch
 
